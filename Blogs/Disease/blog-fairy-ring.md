@@ -1,0 +1,47 @@
+# Fairy Ring in NZ Lawns: What It Is and What You Can Do About It
+
+Fairy ring is one of those lawn problems where the first question is what type you're dealing with, because the answer changes everything about how you manage it. There are three types, and they look quite different from each other.
+
+Type 2 is the most common and the least damaging: a ring or arc of unusually dark green grass. No dead patches, no mushrooms, just a circle of turf growing faster and greener than the rest. The fungus underground is breaking down organic matter and releasing nitrogen as it goes, essentially fertilising the grass above. It looks odd but it's not hurting anything.
+
+Type 3 produces rings or arcs of mushrooms or toadstools at the surface. The fruiting bodies appear after warm wet weather, usually in autumn, as the underground fungal network pushes above ground to release spores. Mostly cosmetic, but worth knowing that some lawn mushrooms are toxic to pets and children, so don't leave them accessible.
+
+Type 1 is the problem. A ring or arc of dead or severely stressed grass, often with darker green just outside the dead zone. The fungus has produced a dense hydrophobic mat of mycelium in the soil that physically repels water. The grass above it can't get moisture to the roots regardless of how much rain or irrigation it receives, and it dies. This is the type that causes real damage and the hardest one to fix.
+
+## What's causing it
+
+All three types have the same underlying driver: the fungus is feeding on organic matter in the soil. Old tree roots and stumps are the classic source, but buried timber, deep thatch, and decomposing organic debris can all start a ring. The fungus grows outward from that central food source, which is why the rings expand year on year and why they often grow faster in one direction than another if the organic matter is unevenly distributed.
+
+The rings grow outward at roughly 100 to 600mm per year. A ring that started as a small circle can reach several metres across over a decade, and once it's established it doesn't disappear on its own until the underground food source is fully consumed. On a lawn over an old orchard site or where trees were removed years ago, that can take a very long time.
+
+Sandy or free-draining soils are more susceptible than clay. Mature lawns get it more than new ones, simply because the underlying organic matter has had longer to attract the fungus.
+
+## Managing Type 2 (the dark green ring)
+
+For most people, the practical approach is masking it. A strong nitrogen and iron programme across the whole lawn brings the rest of the grass up to the same colour as the ring, and the visual difference disappears. NZLA Liquid Boost and Iron+ applied across the full lawn evens things out. Over time, as the underground fungus exhausts the organic matter it's feeding on, the ring fades naturally.
+
+If the ring bothers you cosmetically, that's the realistic approach. There's no treatment that removes it quickly.
+
+## Managing Type 3 (mushrooms)
+
+Knock them off as they appear with a rake before they release spores. Don't compost lawn mushrooms — some species are toxic. The underground fungus continues regardless of what you do with the fruiting bodies, but removing them promptly reduces the spore load and the visual mess.
+
+Keep kids and dogs away from mushroom flushes until they've been cleared. If a dog has eaten a lawn mushroom and is showing signs of illness, contact your vet.
+
+## Managing Type 1 (the dead ring)
+
+This one needs work. The hydrophobic mycelium layer in the soil is the problem, and it won't break down on its own quickly.
+
+Start with deep aeration through the affected area and apply NZLA Wetter or Aerate immediately after. Getting a wetting agent into the aeration channels forces moisture through the hydrophobic layer and back to the root zone. This doesn't kill the fungus but it breaks the water exclusion long enough for the grass to recover in the short term. Repeat applications through the season.
+
+For chemistry, NZLA Posterity is registered for fairy ring control. Applied with a wetting agent and watered in well, it suppresses the fungal activity and gives the grass a better chance of recovery. It won't eradicate an established ring, but it slows the progression and reduces the damage window.
+
+The only reliable eradication for a severe Type 1 ring is soil removal. Dig out the affected area to around 300mm depth, remove all the soil, replace with fresh uninfected soil, and reseed. It's significant work, but for a Type 1 ring that keeps coming back in the same spot and is causing ongoing damage, it's the only permanent solution.
+
+If you can identify the organic matter source when you're digging, remove that too. Leaving old roots or buried timber in place means the fungus will re-establish once conditions allow.
+
+## Prevention going forward
+
+Remove old tree roots, stumps and buried timber when you find them during garden work. Keep thatch from building up through regular scarifying. A lawn with active, healthy soil biology tends to compete better against fairy ring fungi than one with depleted, compacted soil.
+
+Fairy ring is a frustrating problem because the fungus is in the soil, not on the surface, and you're always dealing with the symptoms rather than the source. Honest management is the right frame: reduce the damage where you can, mask what you can't fix, and dig out the worst cases.

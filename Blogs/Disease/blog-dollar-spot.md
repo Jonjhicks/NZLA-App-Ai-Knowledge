@@ -1,0 +1,37 @@
+# Dollar Spot on NZ Lawns: What It Is and How to Deal With It
+
+Dollar spot shows up as small straw-coloured circular patches, roughly 30 to 50mm across, about the size of a coin. On individual grass blades the lesions are distinctive: bleached white in the middle with tan borders, often hourglass or banded in shape. In the early morning you'll sometimes see faint white cottony mycelium across the patches, similar to Fusarium, but it disappears once the dew is gone and the sun gets on it.
+
+The seasonal window is the first thing that separates it from Fusarium. Dollar spot is a warm-season disease, most active when daytime temperatures sit between 15 and 31 degrees Celsius, which in most of New Zealand means late spring through summer and into early autumn. Fusarium runs in the cold and wet. If you're seeing those small straw-coloured patches and white morning mycelium in October through February, dollar spot is where to start.
+
+## What's causing it
+
+Dollar spot is associated with low nitrogen fertility, and keeping the lawn well-fed is a genuine part of managing it. Higher nitrogen reduces disease severity, though fertility management alone won't reliably control a serious outbreak. It reduces the conditions that favour the disease, but it's not a substitute for chemistry when the disease is active and spreading.
+
+The environmental conditions that favour dollar spot are warm days combined with high humidity and prolonged overnight dew. The disease is most active when daytime temperatures sit between 15 and 31 degrees Celsius, with disease development accelerating when warm humid days are followed by cool nights that produce heavy dew. That combination is common across northern New Zealand and inland areas from October onward.
+
+Dry soil stress is also a contributing factor. A lawn under moisture stress slows its growth, which creates the low-vigour conditions the disease exploits. Dollar spot can appear on lawns that are both dry at the roots and wet at the leaf surface overnight from dew. The two conditions aren't mutually exclusive.
+
+Perennial ryegrass and tall fescue, the most common species in NZ home lawns, are moderately susceptible. No cool-season grass is immune.
+
+## Fertility and cultural management
+
+A steady granular programme is the foundation. All Seasons every six to eight weeks through the growing season keeps the lawn growing at a pace that reduces dollar spot pressure. If the disease appears mid-season between granular applications, NZLA Charger as a fortnightly foliar delivers a nitrogen top-up and the lawn grows through the smaller patches faster than they spread.
+
+On the cultural side: knock the dew off in the mornings, water early so the lawn dries through the day rather than sitting wet overnight, and mow regularly with sharp blades. Removing infected leaf tips at mowing reduces spread. Bagging clippings during an active outbreak is worth doing.
+
+## The important note on Azoxy
+
+Do not use NZLA Azoxy for dollar spot. It's not on the NZ label for this disease, and published research shows azoxystrobin can actively enhance dollar spot rather than control it. Using it on an affected lawn risks making the situation worse, not better.
+
+## Chemistry for dollar spot
+
+NZLA Posterity is the product for dollar spot. It covers dollar spot, Microdochium patch, and Spring Dead Spot, works both as a preventative and curative treatment, and operates at 5 to 10 mL per 100m². Apply at the lower rate when conditions favour disease before it appears, and at the higher rate once it's visible. Reapply every 14 to 28 days during the high-risk period depending on pressure.
+
+The chemistry in Posterity is different from Azoxy — it targets the disease through a different mode of action, which is precisely why it works where azoxystrobin doesn't.
+
+## Stopping it coming back
+
+Dollar spot showing up in the same spots year after year usually means the underlying conditions haven't changed. Get the granular base programme sorted, keep foliar top-ups going between applications, and stop evening watering permanently if that's a habit. Extending the leaf wetness window overnight through the warm months is probably the single most avoidable contributor to dollar spot on NZ home lawns.
+
+Where the disease keeps returning despite good cultural management, Posterity applied preventatively at the start of the high-risk period each season is the practical answer.
