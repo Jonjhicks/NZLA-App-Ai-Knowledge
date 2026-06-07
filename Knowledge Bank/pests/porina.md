@@ -30,7 +30,7 @@ Part the grass in a damaged area early morning when it's damp. Look for burrow h
 
 ## Treatment
 
-NZLA Grub+ (chlorantraniliprole 200 g/L). On label for porina. Up to 6 months control. Maximum 1 application per year.
+NZLA Grub+ (chlorantraniliprole 200 g/L). On label for porina. Up to 6 months control. Apply late September to early October and again in March.
 
 Treat in autumn, March through May, when caterpillars are small and feeding near the surface. This is the critical window. Once they're full-grown and burrowing deep in late winter, surface-applied chemistry has a much harder time reaching them.
 

@@ -28,7 +28,7 @@ NZLA Grub+ (chlorantraniliprole 200 g/L) controls crickets. Apply to a well-wate
 
 Best timing is as populations are building — late November into December gives the active time to work before peak numbers arrive. If you've had a serious cricket infestation one summer, treat the following early summer as a preventative rather than waiting for damage to show.
 
-For most home lawns, one application per season is sufficient. Maximum 1 application per year applies to the Grub+ label — that restriction is there for good reason.
+NZLA recommends two applications per year, six months apart: late September to early October, then again in March.
 
 ## Cultural side
 

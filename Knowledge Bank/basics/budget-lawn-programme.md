@@ -27,7 +27,7 @@ Two things make the biggest difference to lawn quality, and both are relatively 
 
 ## When to spend more
 
-**Grub+ once per year (February to March):** Essential if you've had grub damage before or you're in a region with consistent grass grub pressure. One application per year, $15 per 100m² at the 250 mL size. One treatment often justifies itself by preventing the need for full renovation of grub-damaged areas.
+**Grub+ (late September to early October, then again in March):** Two applications per year, six months apart. $15 per 100m² at the 250 mL size. Two treatments often justify themselves by preventing the need for full renovation of grub-damaged areas.
 
 **Fungicide (Fungus Pro) for fusarium-prone lawns:** If your lawn gets fusarium patch every winter, one preventative Fungus Pro application in April costs less than recovering from a bad outbreak. Not needed on every lawn — only if you've had fusarium damage.
 

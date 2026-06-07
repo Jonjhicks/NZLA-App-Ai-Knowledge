@@ -27,7 +27,7 @@ NZ lawn pest activity follows predictable seasonal patterns.
 
 **Billbugs:** adults visible walking on lawn in spring; larvae feed at the crown and root through summer.
 
-For treatment timing: NZLA Grub+ (chlorantraniliprole) covers all of these but can only be applied once per year — so timing matters. Spring (October to December) catches grass grub, black beetle larvae, stem weevil and early caterpillar pressure. That's the standard window for most NZ home lawns. For porina specifically, autumn application targets the active larval stage more precisely.
+For treatment timing: NZLA Grub+ (chlorantraniliprole) covers all of these. NZLA recommends two applications per year, six months apart: late September to early October (before egg hatch, targeting new first-instar larvae), then again in March. For porina specifically, the March application targets the active larval stage more precisely.
 
 Monitor before treating. Many lawns have low pest pressure that never reaches a damage threshold. The square spade test in spring is the way to confirm whether grub counts justify intervention.
 

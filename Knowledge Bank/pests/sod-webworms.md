@@ -36,7 +36,7 @@ Soapy water flush tells you which you're dealing with. The size and behaviour of
 
 ## Treatment
 
-NZLA Grub+ (chlorantraniliprole 200 g/L) is on label for surface-feeding caterpillars including sod webworm. Up to 6 months control. Maximum 1 application per year.
+NZLA Grub+ (chlorantraniliprole 200 g/L) is on label for surface-feeding caterpillars including sod webworm. Up to 6 months control. Apply late September to early October and again in March.
 
 For sod webworm and other surface feeders, application timing matters: apply in late afternoon or early evening when caterpillars are coming up to feed. Water in lightly after. The active needs to stay near the surface and on the leaf where the caterpillars are feeding. A heavy irrigation-general washes it too deep. Avoid mowing for 24 hours after application.
 
